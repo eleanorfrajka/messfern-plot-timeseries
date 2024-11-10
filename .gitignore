@@ -4,6 +4,7 @@ mooring1velo.nc
 mooring2velo.nc
 mooring3velo.nc
 data/*
+prep_data-eleanor.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
